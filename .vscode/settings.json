@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "c:/Users/MichalKowalczyk/Desktop/Training/Robocorp/Level 2 Python/rsb-orders-bot/."
+  ],
+  "python.terminal.activateEnvironment": false
+}
